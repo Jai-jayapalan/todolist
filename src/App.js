@@ -3,7 +3,7 @@ import TodoApp from './Component/Todo';
 function App() {
   return (
     <div className="App">
-      <h1>welcome</h1>
+      <h1>ToDoApp</h1>
       <TodoApp />
     </div>
   );
